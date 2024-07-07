@@ -1,15 +1,23 @@
 **POWER BI PROJECT**
+
 PwC Switzerland Power BI Job Simulation on Forage
+
 **First dashboard: Call centre dashboard**
+
   A dashboard for visualizing relevant KPIs and metrics in the dataset.
   Dashboard reflecting the requested KPIs.
+  
 **Second dashboard: Customer Retention**
+
   A dashboard using the defined Key Performance Indicators to reflect customer dempgraphics and insights
+  
 **Third dashboard: Diversity and inclusion**
+
   Visualization to represent HR data, particularly focusing on gender-related KPIs.
 Identifying potential root causes for the slow progress in achieving gender balance at the executive management level.
 
 **What was learnt and can be learnt**
+
  * Job simulation where I strengthened my PowerBI skills to better
    understand clients and their data visualisation needs.
  * Demonstrated expertise in data visualization through the creation of Power BI
